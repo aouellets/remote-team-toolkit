@@ -1,8 +1,8 @@
 # Remote Team Toolkit
 
-**Run a tight remote team without drowning in meetings.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For remote managers: keep the team aligned async, without back-to-back meetings.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-Async communication, meeting notes, weekly reviews, 1:1 agendas, OKRs, and feedback delivery — the full stack for high-functioning remote teams.
+Reach for this when your remote team is drowning in status meetings and threads. It turns meetings into tracked actions, writes the async updates and stakeholder notes that replace standups, structures 1:1s, and helps you deliver feedback that lands — so alignment happens in writing, on everyone's own clock, and your calendar opens back up.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
