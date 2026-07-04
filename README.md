@@ -9,7 +9,7 @@ Reach for this when your remote team is drowning in status meetings and threads.
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/remote-team-toolkit](https://skillme.dev/pack/remote-team-toolkit) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/remote-team-toolkit`
+- **With the skills CLI:** `npx skills add SkillMedev/remote-team-toolkit`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
